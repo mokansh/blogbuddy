@@ -27,22 +27,22 @@ function Header() {
       <
       a className = "nav-link"
       aria-current = "page"
-      href = "#" > Cryptocurrency < /a> <
+      href = "#" style={{color:"#fff"}} > Cryptocurrency < /a> <
       /li> <
       li className = "nav-item ms-5" >
       <
       a className = "nav-link"
-      href = "#" > Environment < /a> <
+      href = "#" style={{color:"#fff"}} > Environment < /a> <
       /li> <
       li className = "nav-item ms-5" >
       <
       a className = "nav-link"
-      href = "#" >THC+CBD< /a> <
+      href = "#" style={{color:"#fff"}} >THC+CBD< /a> <
       /li> <
       li className = "nav-item ms-5" >
       <
       a className = "nav-link"
-      href = "#" > Solar Energy < /a> <
+      href = "#" style={{color:"#fff"}} > Solar Energy < /a> <
       /li>
       <
       li className = "nav-item ms-5" >

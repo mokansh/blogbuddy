@@ -16,6 +16,15 @@ a:hover {
   color: salmon;
 }
 
+.subnav a {
+  text-decoration: none;
+  color:#fff;
+}
+
+.subnav a:hover {
+  color: salmon;
+}
+
 .carousel-control-next,
 .carousel-control-prev /*, .carousel-indicators */ {
     filter: invert(100%);
